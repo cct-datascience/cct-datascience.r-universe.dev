@@ -2,5 +2,9 @@
   {
     "package": "azmetr",
     "url": "https://github.com/cct-datascience/azmetr"
+  },
+  {
+    "package": "ggbiplot",
+    "url": "https://github.com/vqv/ggbiplot"
   }
 ]
