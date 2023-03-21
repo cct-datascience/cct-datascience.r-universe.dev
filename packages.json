@@ -6,5 +6,9 @@
   {
     "package": "ggbiplot",
     "url": "https://github.com/vqv/ggbiplot"
+  },
+  {
+    "package": "volcalc",
+    "url": "https://github.com/Meredith-Lab/volcalc"
   }
 ]
