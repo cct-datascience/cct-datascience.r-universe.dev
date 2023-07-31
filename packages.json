@@ -6,9 +6,5 @@
   {
     "package": "volcalc",
     "url": "https://github.com/Meredith-Lab/volcalc"
-  },
-  {
-    "package": "RDCOMClient",
-    "url": "https://github.com/omegahat/RDCOMClient"
   }
 ]
