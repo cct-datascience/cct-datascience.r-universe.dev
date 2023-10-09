@@ -6,5 +6,9 @@
   {
     "package": "volcalc",
     "url": "https://github.com/Meredith-Lab/volcalc"
+  },
+  {
+    "package": "zentracloud",
+    "url": "https://gitlab.com/meter-group-inc/pubpackages/zentracloud"
   }
 ]
