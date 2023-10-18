@@ -10,5 +10,9 @@
   {
     "package": "zentracloud",
     "url": "https://gitlab.com/meter-group-inc/pubpackages/zentracloud"
+  },
+  {
+    "package": "Microsoft356R",
+    "url": "https://github.com/Azure/Microsoft365R"
   }
 ]
