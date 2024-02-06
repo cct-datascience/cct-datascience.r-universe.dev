@@ -10,5 +10,9 @@
   {
     "package": "zentracloud",
     "url": "https://gitlab.com/meter-group-inc/pubpackages/zentracloud"
+  },
+  {
+    "package": "datadrivencv",
+    "url": "https://github.com/nstrayer/datadrivencv"
   }
 ]
