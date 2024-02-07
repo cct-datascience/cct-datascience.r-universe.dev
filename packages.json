@@ -14,5 +14,9 @@
   {
     "package": "datadrivencv",
     "url": "https://github.com/nstrayer/datadrivencv"
+  },
+  {
+    "package": "arcgisbinding",
+    "url": "https://github.com/R-ArcGIS/r-bridge/"
   }
 ]
