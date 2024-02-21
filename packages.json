@@ -13,7 +13,11 @@
   },
   {
     "package": "datadrivencv",
-    "url": "https://github.com/nstrayer/datadrivencv"
+    "url": "https://github.com/cct-datascience/datadrivencv"
+  },
+  {
+    "package": "icons",
+    "url": "https://github.com/mitchelloharawild/icons"
   },
   {
     "package": "arcgisbinding",
