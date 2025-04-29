@@ -22,5 +22,9 @@
   {
     "package": "arcgisbinding",
     "url": "https://github.com/R-ArcGIS/r-bridge/"
+  },
+  {
+    "package": "forestTIME.builder",
+    "url": "https://github.com/mekevans/forestTIME-builder"
   }
 ]
