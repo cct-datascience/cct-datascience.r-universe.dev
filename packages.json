@@ -26,5 +26,9 @@
   {
     "package": "forestTIME.builder",
     "url": "https://github.com/Evans-Ecology-Lab/forestTIME-builder"
+  },
+  {
+    "package": "rnpn",
+    "url": "https://github.com/usa-npn/rnpn"
   }
 ]
