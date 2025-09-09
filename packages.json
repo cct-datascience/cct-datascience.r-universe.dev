@@ -24,8 +24,8 @@
     "url": "https://github.com/R-ArcGIS/r-bridge/"
   },
   {
-    "package": "forestTIME.builder",
-    "url": "https://github.com/Evans-Ecology-Lab/forestTIME-builder"
+    "package": "forestTIME",
+    "url": "https://github.com/Evans-Ecology-Lab/forestTIME"
   },
   {
     "package": "rnpn",
